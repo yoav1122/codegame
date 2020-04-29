@@ -13,6 +13,7 @@ body{
 }
 ol{
   text-align: right;
+  margin: 10px 50px;
 }
 
 .code{
