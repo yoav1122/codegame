@@ -1,22 +1,59 @@
+
 body{
-  text-align: center;
-  background-color: #f2e4ae;
+text-align: center;
+background-color: #f2e4ae;
+}
+
+a{
+  margin: 30px 0px;
 }
 
 .title{
-  text-align: center;
+text-align: center;
+}
+
+.firstpagetitle{
+  margin: 30px 0px;
 }
 
 .link{
-  color: black;
-  text-align: center;
+color: black;
+text-align: center;
 }
 ol{
-  text-align: right;
-  margin: 10px 50px;
+text-align: right;
+margin: 10px 50px;
+line-height: 2em;
+margin-bottom: 5%;
+font-size: 1.2rem;
+margin-top: 5%;
 }
 
 .code{
-  border: 2px solid #f2e4ae;
-  border-radius: 3px;
+border-radius: 30px;
+padding-top: 20px;
+}
+.img{
+width: 20%;
+position: relative;
+margin-top: 5%;
+margin-bottom: 5%;
+border-radius: 20px;
+}
+.endtitle{
+  padding: 20px 0px;
+  margin: 0px 0px 40px 0px;
+}
+
+.sendtitle{
+  margin-bottom: 70px;
+}
+
+.finalimg{
+position: static;
+  width: 800px;
+}
+
+.answerbut{
+  position: static;
 }
