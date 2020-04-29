@@ -14,3 +14,8 @@ body{
 ol{
   text-align: right;
 }
+
+.code{
+  border: 2px solid #f2e4ae;
+  border-radius: 3px;
+}
